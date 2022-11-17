@@ -1,0 +1,11 @@
+{
+	"name": "TopBarHoverBlur",
+	"version": "v1.0",
+	"author": "Sendaford",
+	"manifest_version": 3,
+	"target": "Tweak",
+	"description": "Adds a blur effect to the top bar while hovering over.",
+	"inject": {
+		"shared.css": ["SP"]
+	}
+}
